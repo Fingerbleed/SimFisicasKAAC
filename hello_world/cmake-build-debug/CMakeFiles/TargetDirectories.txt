@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Documents/Sim_Fisicas_KAAC/hello_world/cmake-build-debug/CMakeFiles/hello_world.dir
+C:/Users/LENOVO/Documents/Sim_Fisicas_KAAC/hello_world/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Documents/Sim_Fisicas_KAAC/hello_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
