@@ -3,8 +3,7 @@
 
 int main()
 {
-    // Jupiter
-    b2Vec2 gravity(0.0f, -24.79f);
+    b2Vec2 gravity(0.0f, -1.62f);
     b2World world(gravity);
 
     b2BodyDef groundBodyDef;
@@ -19,7 +18,7 @@ int main()
 
     b2BodyDef bodyDef;
     bodyDef.type = b2_dynamicBody;
-    bodyDef.position.Set(0.0f, 15.0f);
+    bodyDef.position.Set(0.0f, 20.0f);
     b2Body* body = world.CreateBody(&bodyDef);
 
     b2PolygonShape dynamicbox;
@@ -27,8 +26,8 @@ int main()
 
     b2FixtureDef fixtureDef;
     fixtureDef.shape = &dynamicbox;
-    fixtureDef.density = 15600.0f;
-    fixtureDef.friction = 0.9f;
+    fixtureDef.density = 1.0f;
+    fixtureDef.friction = 1.0f;
 
     body ->CreateFixture(&fixtureDef);
 
