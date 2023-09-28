@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Documents/Sim_Fisicas_KAAC/hola_jupiter/cmake-build-debug/CMakeFiles/hola_jupiter.dir
+C:/Users/LENOVO/Documents/Sim_Fisicas_KAAC/hola_jupiter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Documents/Sim_Fisicas_KAAC/hola_jupiter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
